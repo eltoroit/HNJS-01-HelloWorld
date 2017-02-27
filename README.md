@@ -21,7 +21,7 @@ This repository uses the MIT library, which basically means it’s free… Enjoy
 
 ## About Me
 
-[http://eltoro.it](http://eltoro.it) ([Twitter](https://twitter.com/ElToroIT) [LinkedIn](https://www.linkedin.com/in/eltoroit)) loves helping developers understand Salesforce and how easy is to work with this great platform. He also teaches the Salesforce [developer courses](http://www.salesforce.com/services-training/training_certification/training-by-role.jsp) in English and Spanish.
+[ELTOROIT](http://eltoro.it) ([Twitter](https://twitter.com/ElToroIT) [LinkedIn](https://www.linkedin.com/in/eltoroit)) loves helping developers understand Salesforce and how easy is to work with this great platform. He also teaches the Salesforce [developer courses](http://www.salesforce.com/services-training/training_certification/training-by-role.jsp) in English and Spanish.
 
 
 Don't forget to visit my blog: [http://eltoro.it](http://eltoro.it) 
