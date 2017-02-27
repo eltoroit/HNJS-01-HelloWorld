@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>Node.JS + Heroku + Salesforce: Hello World</title>
+	</head>
+	<body>
+		<% include partials/header.ejs %>
+		<% if (locals.dttm) { %>
+			<p>Current Time: <b><%= dttm %></b></p>
+		<% } %>
+		<% if (locals.fname) { %>
+			<p>Hello <b><%= fname %></b></p>
+		<% } else { %>
+			<p><form action="/" method="POST">
+				What's your first name?<br/>
+				<input type="text" name="fname" />	
+				<input type="Submit" />
+			</form></p>	
+		<% } %>
+	</body>
+</html>

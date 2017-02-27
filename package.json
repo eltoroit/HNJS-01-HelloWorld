@@ -1,0 +1,20 @@
+{
+  "name": "ElToroIT_HNS",
+  "version": "1.0.0",
+  "description": "Heroku + Node.js + Salesforce Blog by ElToroIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ElToroIT",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "cookie-session": "^2.0.0-beta.1",
+    "ejs": "^2.5.6",
+    "express": "^4.14.1",
+    "multer": "^1.3.0",
+    "node-env-file": "^0.1.8",
+    "query-string": "^4.3.2"
+  }
+}
